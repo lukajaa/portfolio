@@ -1,0 +1,22 @@
+@import "~bulma/sass/utilities/_all";
+
+$primary: #41B86B;
+$primary-light: findLightColor($primary);
+$primary-dark: findDarkColor($primary);
+$primary-invert: findColorInvert($primary);
+
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+
+.big-title {
+  font-size: 7rem;
+}
+
+.header-image {
+    background-image: url("./images/4.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+}
