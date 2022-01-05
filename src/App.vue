@@ -11,7 +11,7 @@
           <a href="https://www.youtube.com/channel/UCHXhJzu4eN8CjcPpppsSk_g" target="_blank"><b-icon class="mx-1" icon="youtube" size="is-large"></b-icon></a>
           <a href="https://www.instagram.com/chucas.lang/" target="_blank"><b-icon class="mx-1" icon="instagram" size="is-large"></b-icon></a>
           <a @click="alert()"><b-icon class="mx-1" icon="discord" size="is-large"></b-icon></a>
-          <a href="https://www.athletic.net/profile/LucasChang1" target="_blank"><b-icon class="mx-1" icon="shoe-sneaker" size="is-large"></b-icon></a>
+          <a href="https://www.strava.com/athletes/LucasChang" target="_blank"><b-icon class="mx-1" icon="shoe-sneaker" size="is-large"></b-icon></a>
         </div>
       </div>
     </section>
